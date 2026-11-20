@@ -52,7 +52,7 @@
 ## История обновлений
 - **[v1.0](https://github.com/neoru-droid/deleted-wiki-ru/releases/tag/v1.0.0)** - первый полный релиз перевода (3 039 строк, шрифт Underdog с кириллицей, поиск с поддержкой «е/ё» и экран 29 достижений в игре) под патч 1.0.24 (сборка 26304123).
 
-[Все версии](https://github.com/neoru-droid/deleted-wiki-ru/releases) · [Парное мод-меню](https://github.com/neoru-droid/deleted-wiki-trainer-ru)
+[Все версии](https://github.com/neoru-droid/deleted-wiki-ru/releases) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222) · [Обсудить перевод в Steam](https://steamcommunity.com/app/5204830/discussions/0/568177480254562784/) · [Парное мод-меню](https://github.com/neoru-droid/deleted-wiki-trainer-ru)
 
 <a id="support"></a>
 ## Поддержать
