@@ -7,7 +7,7 @@
 - **Вариант 1 (Рекомендуется) - [Полное издание «2-в-1» на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki):** единый установщик с выбором модулей (русификатор текста, шрифта и 29 достижений в игре + дополнительное внутриигровое мод-меню и настройка баланса) и обновления под патчи.
 - **Вариант 2 - [Базовый русификатор v1.0 на GitHub Releases](https://github.com/neoru-droid/deleted-wiki-ru/releases/tag/v1.0.0):** только перевод текста, шрифта и экрана достижений · [Как установить](#установка) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
 
-Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows**, **Steam Deck / Linux** и **macOS**. Достижения Steam продолжают открываться как обычно, а кнопка удаления в любой момент возвращает чистую оригинальную игру.
+Проверено на версии 1.0.24 (сборка Steam 26304123) для **Windows**, **Steam Deck / Linux** и **macOS**. Достижения Steam продолжают открываться, а кнопка удаления в любой момент возвращает оригинальные файлы.
 
 ![Deleted Wiki: Clean Up the Lost Files · Русификатор](docs/screenshots/cover_wide.png)
 
@@ -62,7 +62,7 @@
 - **[Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki)**
 - **[Каталог всех игр с поиском](https://neoru-droid.github.io/)**
 
-Перевод сделан с помощью нейросети и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/deleted-wiki-ru/issues), поправлю.
+Перевод сделан нейросетью и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/deleted-wiki-ru/issues), поправлю.
 
 ## Другие переводы
 - [Playrooms](https://github.com/neoru-droid/playrooms-ru)
