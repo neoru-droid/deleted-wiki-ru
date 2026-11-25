@@ -6,7 +6,7 @@
 - **[Сборка 2-в-1 (русификатор + мод-меню) и обновления на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki):** единый установщик с выбором нужных модулей галочками и обновлениями под патчи.
 - **[Базовый русификатор v1.0 на GitHub Releases](https://github.com/neoru-droid/deleted-wiki-ru/releases/tag/v1.0.0):** перевод текста, шрифта и экрана достижений · [Как установить](#установка) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
 
-Проверено на версии `1.0.24` (сборка Steam `26304123`) для **Windows**, **Steam Deck / Linux** и **macOS**. Достижения в Steam продолжают открываться.
+Проверено на версии `1.0.24` (сборка Steam `26304123`) для **Windows**, **Steam Deck / Linux** и **macOS**.
 
 ![Deleted Wiki: Clean Up the Lost Files · Русификатор](docs/screenshots/cover_wide.png)
 
