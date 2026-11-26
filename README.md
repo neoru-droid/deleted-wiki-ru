@@ -14,7 +14,7 @@
 1. **Windows:** закройте игру, распакуйте архив и запустите `DeletedWiki-RU-Setup.exe` -> **«Установить русификатор»** (или `DeletedWiki-Full-Setup.exe` в полной сборке «2-в-1» с Boosty).
 2. **Steam Deck / Linux:** распакуйте все файлы архива в одну папку и выполните `sh install-steamdeck.sh`.
 3. **macOS:** распакуйте файлы архива в одну папку и запустите `install-macos.command` в Finder.
-4. Кнопка **«Вернуть оригинал»** убирает перевод через тот же установщик. В издании «2-в-1» модули можно ставить и удалять раздельно в любом порядке ([страница мод-меню](https://github.com/neoru-droid/deleted-wiki-trainer-ru)).
+4. Кнопка **«Вернуть оригинал»** убирает перевод через тот же установщик. В издании «2-в-1» модули можно ставить и удалять раздельно в любом порядке.
 
 *(Окно SmartScreen на Windows: «Подробнее» -> «Выполнить в любом случае».)*
 
@@ -57,6 +57,8 @@
 ## Обратная связь и проекты автора
 
 Перевод сделан нейросетью и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/deleted-wiki-ru/issues), поправлю.
+
+Предложить игру на перевод в приоритетную очередь или заказать разбор вне очереди можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
 
 Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=deleted_wiki) · [профиль на GitHub](https://github.com/neoru-droid)
 
